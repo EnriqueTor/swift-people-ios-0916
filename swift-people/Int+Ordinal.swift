@@ -15,4 +15,3 @@ extension Int {
         return ordinal
     }
 }
-
